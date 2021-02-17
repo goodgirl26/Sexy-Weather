@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "My first React-Native project!!\nTitle is 'Sexy-Weather'.\nAwesome",
+    "githubUrl": "https://github.com/goodgirl26/sexy-weather"
   }
 }
